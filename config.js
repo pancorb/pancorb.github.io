@@ -12,7 +12,7 @@ var config = {
             id: 'tutorial',
             alignment: 'full',
             title: 'Tutorial',
-            description: '<p>Welcome!</p><p>The only interaction required is to scroll down (beware: scrolling extremely, extremely fast may not allow the map to upload properly); the entire website is contained on this one page.</p><p>For the best experience, please view this on a computer with an up-to-date version of Firefox or Chrome with JavaScript enabled (enabled is the default).</p><p>All quote are originally in Spanish; see the sources for their original texts.</p><p>You may click any endnote link to see the endnote, and there will be a "↩" to return to what you were reading.</p><p>The top right corner, when applicable, will have an info box with the legend/sources of and/or extra info about the map.</p><p>For a shortened version without context (since this is very long, and Parts I, IIa, IVa, and IVb are all context), click when you see a "↓ Skip to main content" button at the bottom of your screen.</p><p><strong>Enjoy!</strong></p>',
+            description: '<p>Welcome!</p><p>The only interaction required is to scroll down (scrolling ridiculously fast may not allow the map to upload properly); the entire website is contained on this one page.</p><p>For the best experience, please view this on a computer with an up-to-date version of Firefox or Chrome with JavaScript enabled (enabled is the default).</p><p>All quote are originally in Spanish; see the sources for their original texts.</p><p>You may click any endnote link to see the endnote, and there will be a "↩" to return to what you were reading.</p><p>The top right corner, when applicable, will have an info box with the legend/sources of and/or extra info about the map.</p><p>For a shortened version without context (since this is very long, and Parts I, IIa, IVa, and IVb are all context), click when you see a "↓ Skip to main content" button at the bottom of your screen.</p><p><strong>Enjoy!</strong></p>',
             location: {
                 center: [-102.89258, 23.71025],
                 zoom: 4.15,
@@ -88,7 +88,7 @@ var config = {
             <p style="text-align: right">Octavio Paz, "Vuelta al Laberinto"<sup><a id="ref1" href="#foot1">1</a></sup></p style="text-align: right">
             <p>That was the state Mexico City was at in the 20th century. Everyone in Mexico was looking to its capital for work and urban life, but the capital was sinking under their weight… literally.</p>
             
-            <p>The question of what to do about this problem led to two episodes: a struggle between President Gustavo Díaz Ordaz and Mexico City Regent Ernesto Uruchurtu on whether to create a metro system, and Luis Echeverría Álvarez's neglect of the Metro that allegedly was to blame for a train collision that killed dozens and injured nearly a hundred more. Both episodes led to the same questions under which their politicians can be scrutinized. <strong>Which stakeholders influenced the political development of the Mexico City Metro: politicians and their self-interest, the will of the people, or the expected benefit of the people? Who benefitted the most in hindsight?<strong></p>
+            <p>The question of what to do about this problem led to two episodes: a struggle between President Gustavo Díaz Ordaz and Mexico City Regent Ernesto Uruchurtu on whether to create a metro system, and Luis Echeverría Álvarez's neglect of the Metro that allegedly was to blame for a train collision that killed dozens and injured nearly a hundred more. Both episodes led to the same questions under which their politicians can be scrutinized. <strong>Which stakeholders influenced the political development of the Mexico City Metro: politicians and their self-interest, the will of the people, or the expected benefit of the people? Who benefitted the most in hindsight?</strong></p>
             `,
             onChapterEnter: [],
             onChapterExit: [],
@@ -287,7 +287,7 @@ var config = {
         {
             id: 'p1s3b',
             alignment: 'full',
-            description: 'rams were first mule-drawn carriages. They then went electric, starting out with 35 vehicles in 1900, expanding to 514 by their peak in 1950, and disappearing by 1985. They served not only to move people on their commute, but goods as well, between businesses and homes.<sup><a id="ref6" href="#foot6">6</a></sup>',
+            description: 'Trams were first mule-drawn carriages. They then went electric, starting out with 35 vehicles in 1900, expanding to 514 by their peak in 1950, and disappearing by 1985. They served not only to move people on their commute, but goods as well, between businesses and homes.<sup><a id="ref6" href="#foot6">6</a></sup>',
             info: 'Tram routes were traced as close as possible. See original source.<sup><a id="ref5" href="#foot5">5</a></sup>',
             location: {
                 center: [-99.14072, 19.42577],
@@ -496,7 +496,7 @@ var config = {
 
         <p>Despite their differences, they were both a part of the PRI, as all but a requirement to have a place in government. While the PRI rigged elections to some extent, it wasn't a completely authoritarian government. So, maintaining popular approval of the PRI was important to its members, which required the image of a unified party.</p>
 
-        <p>Getting more into the inner workings of the government, is the Federación de Trabajadores del Distrito Federal (Federation of Workers of the Federal District), or FTDF, which is a branch of the Confederación Nacional de Trabajadores Mexicanos (National Confederation of Mexican Workers), or CTM. They were, for all intensive purposes, run by the PRI. While the FTDF's purpose on paper was to represent the interests of the Federal District's workers' unions, in practice it was to keep control over those unions to maintain everything running smoothly according to how the PRI wanted it.<sup><a id="ref24" href="#foot24">24</a></sup></p>
+        <p>Getting more into the inner workings of the government, is the Federación de Trabajadores del Distrito Federal (Federation of Workers of the Federal District), or FTDF, which is a branch of the Confederación Nacional de Trabajadores Mexicanos (National Confederation of Mexican Workers), or CTM. They were, for all intents and purposes, run by the PRI. While the FTDF's purpose on paper was to represent the interests of the Federal District's workers' unions, in practice it was to keep control over those unions to maintain everything running smoothly according to how the PRI wanted it.<sup><a id="ref24" href="#foot24">24</a></sup></p>
 
         <p>Next on the list is the Alianza de Camioneros de México (Bus Operators' Alliance of Mexico), an employer's union that successfully monopolized Mexico City bus transit.<sup><a id="ref25" href="#foot25">25</a></sup> Organizationally, it was a powerful group of employers whose employees owned their own buses but operated under the rules of their employers.<sup><a id="ref26" href="#foot26">26</a></sup> It was not controlled by the government, but it was often politically active in support of the PRI and had a symbiotic relationship with them.<sup><a id="ref27" href="#foot27">27</a></sup></p>
 
@@ -854,7 +854,7 @@ var config = {
 		{
 			id: 'p4s1d',
 			alignment: 'full',
-            image: 'https://www.eluniversal.com.mx/resizer/v2/CEF7WHBITBEHDF5NZD2Q33Y654.jpg',
+            image: 'metroconstructionbuildingweight.png',
 			description: `Second, they had to prevent the Metro from floating up to the surface. While that sounds impossible, the fluid soil wasn't able to keep the Metro in place alone, and hollowed out stations and tunnels had an average density lower than water, causing them to float. To solve this, the ICA built buildings on top of the Metro for the sole purpose of keeping it in place.<sup><a id="ref90" href="#foot90">90</a></sup>`,
             info: `Redder areas are sinking faster.<sup><a id="ref86" href="#foot86">86</a></sup>`,
 			onChapterEnter: [],
@@ -871,7 +871,7 @@ var config = {
 		{
 			id: 'p4s2',
 			alignment: 'full',
-            image: "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/485354835_1231351895021261_3214155329433265984_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=110&ccb=1-7&_nc_sid=7b2446&_nc_ohc=-e2Xkpcx7kYQ7kNvwEgpgvJ&_nc_oc=Adp6YpD3RR7ZtIM8oKKdBAO28JeCryyXafu0pG2BEGOdUgqZsVihqfsT85lwPg-FpFI&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=9kdIznsGTAGSR6jofR1vQA&_nc_ss=7a289&oh=00_Af0Z3DU9gx7CAApSit_CX2BlMvSuJvcprAPLy_Ox-0oa8w&oe=69EF7142",
+            image: "vintagemetro.jpg",
             title: "The Metro's Inauguration",
 			description: `<p>Despite the numerous dangers that Mexico City itself posed to the project, workers broke ground on June 17th, 1967, and the first section was inaugurated by Díaz Ordaz on September 4th, 1969.<sup><a id="ref92" href="#foot92">92</a></sup> It was an internationally recognized event, with international transportation officials like the chair of the Metropolitan Transportation Authority of New York and many others in attendance. At the time, the Metro was estimated to garner a ridership of 1.7M passengers/day by the end of 1970, when the first three lines would have been finished.<sup><a id="ref93" href="#foot93">93</a></sup></p>
 
