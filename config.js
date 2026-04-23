@@ -854,7 +854,7 @@ var config = {
 		{
 			id: 'p4s1d',
 			alignment: 'full',
-            image: 'metroconstructionbuildingweight.png',
+            image: 'assets/metroconstructionbuildingweight.png',
 			description: `Second, they had to prevent the Metro from floating up to the surface. While that sounds impossible, the fluid soil wasn't able to keep the Metro in place alone, and hollowed out stations and tunnels had an average density lower than water, causing them to float. To solve this, the ICA built buildings on top of the Metro for the sole purpose of keeping it in place.<sup><a id="ref90" href="#foot90">90</a></sup>`,
             info: `Redder areas are sinking faster.<sup><a id="ref86" href="#foot86">86</a></sup>`,
 			onChapterEnter: [],
@@ -871,7 +871,7 @@ var config = {
 		{
 			id: 'p4s2',
 			alignment: 'full',
-            image: "vintagemetro.jpg",
+            image: "assets/vintagemetro.jpg",
             title: "The Metro's Inauguration",
 			description: `<p>Despite the numerous dangers that Mexico City itself posed to the project, workers broke ground on June 17th, 1967, and the first section was inaugurated by Díaz Ordaz on September 4th, 1969.<sup><a id="ref92" href="#foot92">92</a></sup> It was an internationally recognized event, with international transportation officials like the chair of the Metropolitan Transportation Authority of New York and many others in attendance. At the time, the Metro was estimated to garner a ridership of 1.7M passengers/day by the end of 1970, when the first three lines would have been finished.<sup><a id="ref93" href="#foot93">93</a></sup></p>
 
