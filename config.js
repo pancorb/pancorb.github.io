@@ -1,6 +1,6 @@
 var config = {
     style: 'mapbox://styles/pancorb/cmo6ozl9c000901ruf2yh213e',
-    accessToken: 'prompt("Please enter a Mapbox access token:")',
+    accessToken: prompt("Please enter a Mapbox access token:"),
     projection: 'globe',
     theme: 'light',
     title: '<u><span style="font-weight: 500"><i>Car</i><span style="font-weight: 500"><span style="font-weight: 900"><i>ril</i>politik<span style="font-weight: 900">:</u>',
